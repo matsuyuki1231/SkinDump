@@ -1,0 +1,5 @@
+name: SkinDump
+main: matsuyuki\SkinDump\SkinDumpPlugin
+version: 1.0.0
+api: 5.0.0
+src-namespace-prefix: matsuyuki\SkinDump
